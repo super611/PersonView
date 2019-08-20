@@ -3,7 +3,9 @@
 首先是自定义ScrollView实现Toolbar（标题栏）渐变
 
 效果展示图：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2019081313080726.gif)
+
 编程思想：
 
 1、自定义一个类，继承自ScrollView，并重写它的 onScrollChanged 方法；
