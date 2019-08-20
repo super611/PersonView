@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PersonView</string>
+    <string name="name">晓辉</string>
+    <string name="code">20190813</string>
+
+    <string name="coin">金币</string>
+    <string name="grade">等级</string>
+    <string name="contribute">贡献</string>
+
+    <string name="sign">签到</string>
+    <string name="footprint">足迹</string>
+    <string name="publish">我发布的</string>
+    <string name="photowall">照片墙</string>
+    <string name="lucky">开始抽奖</string>
+    <string name="invite">邀请奖励</string>
+    <string name="set">设置</string>
+</resources>
